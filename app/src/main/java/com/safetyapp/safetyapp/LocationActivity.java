@@ -26,7 +26,7 @@ public class LocationActivity extends AppCompatActivity {
         }
         else if(button_text2.equals("Settings"))
         {
-            Intent z2=new Intent(this, HomeActivity.class);
+            Intent z2=new Intent(this, SettingsActivity.class);
             startActivity(z2);
         }
     }
