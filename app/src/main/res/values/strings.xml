@@ -1,7 +1,7 @@
 <resources>
     <string name="app_name">Safety App</string>
     <string name="home_title">This is the Home/SOS page</string>
-    <string name="home">Home</string>
+    <string name="home">First Page</string>
     <string name="location_title">This is the Location Page</string>
     <string name="location">Location</string>
     <string name="settings_title">This is the SETTINGS page</string>
