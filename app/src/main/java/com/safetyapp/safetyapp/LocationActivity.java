@@ -19,7 +19,7 @@ public class LocationActivity extends AppCompatActivity {
         String button_text2;
         button_text2 = ((Button) view).getText().toString();
 
-        if(button_text2.equals("Home"))
+        if(button_text2.equals("First Page"))
         {
             Intent z2 = new Intent(this, HomeActivity.class);
                 startActivity(z2);
