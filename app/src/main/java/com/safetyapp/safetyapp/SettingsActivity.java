@@ -17,7 +17,7 @@ public class SettingsActivity extends AppCompatActivity {
     public void btnSmethod(View view){
         String button_text3;
         button_text3 = ((Button) view).getText().toString();
-        if(button_text3.equals("First Page"))
+        if(button_text3.equals("Home"))
         {
             Intent z3 = new Intent(this, HomeActivity.class);
                 startActivity(z3);
